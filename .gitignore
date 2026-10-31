@@ -1,0 +1,25 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local database
+*.db
+*.sqlite3
+
+# Vector database
+chroma_db/
+
+# Logs
+logs/
+*.log
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
