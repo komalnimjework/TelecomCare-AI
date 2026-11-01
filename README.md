@@ -1,4 +1,5 @@
 # TelecomCare AI
+
 ### Agentic AI-Based IT Ticket Automation System
 
 TelecomCare AI is an Agentic AI-powered IT support automation platform designed to automate employee IT requests, intelligent ticket classification, knowledge-based troubleshooting, approval workflows, and IT action processing.
@@ -46,17 +47,20 @@ The objective is to build an AI-powered IT support assistant that can:
 The application consists of three user interfaces connected to a shared backend and agent workflow.
 
 ### Employee Portal
+
 - Submit IT support requests.
 - Receive AI-generated troubleshooting guidance.
 - Request password resets.
 - Track ticket status.
 
 ### Manager Portal
+
 - View assigned pending approval requests.
 - Approve or reject software installation requests.
 - Approve or reject application access requests.
 
 ### IT Admin Portal
+
 - Review manager-approved requests.
 - Provide the second approval.
 - Trigger simulated IT actions.
@@ -150,14 +154,16 @@ This is a local demonstration and does not authenticate employees against a real
 
 ### 4.6 Security Guardrails
 
-Input guardrails:
+**Input guardrails:**
+
 - Prompt injection detection.
 - Credential theft phrase detection.
 - Sensitive numeric information detection.
 - Empty input validation.
 - Maximum input length validation.
 
-Output guardrails:
+**Output guardrails:**
+
 - Detect unsafe password and OTP requests.
 - Block selected false IT action completion claims.
 - Replace blocked responses with a safe fallback message.
@@ -184,10 +190,12 @@ Audit history records simulated IT action execution.
 TelecomCare-AI/
 │
 ├── agents/
+│   ├── __init__.py
 │   ├── it_agent.py
 │   └── test_agent.py
 │
 ├── backend/
+│   ├── __init__.py
 │   ├── main.py
 │   └── approval_api.py
 │
@@ -197,26 +205,31 @@ TelecomCare-AI/
 │   └── admin.py
 │
 ├── rag/
+│   ├── __init__.py
 │   ├── embeddings.py
 │   ├── vector_store.py
 │   ├── answer_generator.py
-│   └── test_rag.py
+│   ├── test_rag.py
+│   └── test_performance.py
 │
 ├── guardrails/
-│   └── input_guardrail.py
+│   ├── __init__.py
+│   ├── input_guardrail.py
+│   └── test_input_guardrail.py
 │
 ├── database/
-│   ├── db.py
-│   ├── tickets.db
-│   └── chroma_db/
+│   ├── __init__.py
+│   └── db.py
 │
 ├── tools/
+│   ├── __init__.py
 │   ├── action_executor.py
 │   ├── human_approval.py
 │   ├── it_tools.py
 │   └── audit_logger.py
 │
 ├── evaluation/
+│   ├── __init__.py
 │   ├── test_cases.json
 │   └── evaluate_classifier.py
 │
@@ -226,16 +239,31 @@ TelecomCare-AI/
 │   └── knowledge_base.json
 │
 ├── logs/
-│   ├── performance_logger.py
-│   ├── performance_metrics.jsonl
-│   └── it_action_audit.jsonl
+│   └── performance_logger.py
 │
 ├── tests/
+│   ├── test_action_executor.py
+│   ├── test_human_approval.py
+│   └── test_it_tools.py
+│
+├── docs/
+│   ├── architecture.md
+│   └── project_report.md
+│
+├── screenshots/
+│   ├── 01_password_reset.png
+│   ├── 02_software_installation_request.png
+│   ├── 03_vpn_troubleshooting.png
+│   ├── 04_manager_approval.png
+│   ├── 05_it_approval.png
+│   └── 06_completed_request.png
 │
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
+
+**Note:** The SQLite database (`tickets.db`), ChromaDB storage (`database/chroma_db/`), and generated JSONL log files are created locally at runtime. They are excluded from the Git repository through `.gitignore`.
 
 ---
 
@@ -251,7 +279,7 @@ TelecomCare-AI/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/komalnimjework/TelecomCare-AI.git
 cd TelecomCare-AI
 ```
 
