@@ -1,0 +1,32 @@
+[
+    {
+        "id": "KB001",
+        "category": "VPN",
+        "title": "VPN Connection Troubleshooting",
+        "content": "If VPN connection fails, verify internet connectivity, check VPN client configuration, confirm the account is active, and retry authentication. If the issue continues, escalate to the network support team."
+    },
+    {
+        "id": "KB002",
+        "category": "Network",
+        "title": "Network Connectivity Troubleshooting",
+        "content": "Check physical network connections, verify Wi-Fi connectivity, restart the network adapter if permitted, and check whether internal services are reachable. Escalate persistent outages to network operations."
+    },
+    {
+        "id": "KB003",
+        "category": "Software Installation",
+        "title": "Software Installation Process",
+        "content": "Verify that the requested software is approved by IT. Check device compatibility and available disk space. Installation requiring administrator privileges must be approved by IT support."
+    },
+    {
+        "id": "KB004",
+        "category": "Access Request",
+        "title": "Application Access Troubleshooting",
+        "content": "Verify employee identity, confirm the application and required role, and check existing permissions. New access grants require manager approval and identity team authorization."
+    },
+    {
+        "id": "KB005",
+        "category": "Password Reset",
+        "title": "Password Reset Procedure",
+        "content": "Verify the employee through the approved identity verification process. Use the official password reset workflow. Never disclose passwords or request passwords in chat. Escalate identity verification failures."
+    }
+]

@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+langgraph
+langchain
+langchain-ollama
+langchain-community
+chromadb
+sentence-transformers
+pandas
+pydantic
+python-dotenv
+requests
+numpy
+scikit-learn

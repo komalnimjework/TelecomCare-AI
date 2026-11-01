@@ -7,6 +7,7 @@ __pycache__/
 # Environment variables and secrets
 .env
 .env.*
+!.env.example
 
 # Local database
 *.db
@@ -14,10 +15,11 @@ __pycache__/
 
 # Vector database
 chroma_db/
+database/chroma_db/
 
-# Logs
-logs/
-*.log
+# Runtime logs only
+logs/*.jsonl
+logs/*.log
 
 # Editor and operating system
 .vscode/

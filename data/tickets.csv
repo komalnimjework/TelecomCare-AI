@@ -1,0 +1,204 @@
+ticket_id,employee_id,description,category,priority,status,resolution
+TEL-1001,EMP-125,VPN authentication failed,VPN,High,In Progress,Pending
+TEL-1002,EMP-242,Office internet connection is down,Network,High,Open,Pending
+TEL-1003,EMP-532,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1004,EMP-323,VPN disconnects frequently,VPN,High,Open,Pending
+TEL-1005,EMP-303,Account password has expired,Password Reset,Medium,In Progress,Pending
+TEL-1006,EMP-703,Account is locked,Access Request,Medium,Open,Pending
+TEL-1007,EMP-814,Frequent network disconnections,Network,High,Resolved,Pending
+TEL-1008,EMP-259,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1009,EMP-194,Cannot access internal network through VPN,VPN,High,Open,Pending
+TEL-1010,EMP-967,Software installation permission denied,Software Installation,Medium,Resolved,Pending
+TEL-1011,EMP-847,Cannot access internal network through VPN,VPN,High,Open,Pending
+TEL-1012,EMP-180,Account is locked,Access Request,Medium,Resolved,Pending
+TEL-1013,EMP-296,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1014,EMP-891,Cannot connect to internal server,Network,High,Open,Pending
+TEL-1015,EMP-987,Office internet connection is down,Network,High,Escalated,Pending
+TEL-1016,EMP-564,Software installation permission denied,Software Installation,Medium,In Progress,Pending
+TEL-1017,EMP-463,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1018,EMP-723,VPN disconnects frequently,VPN,High,In Progress,Pending
+TEL-1019,EMP-573,Frequent network disconnections,Network,High,Resolved,Pending
+TEL-1020,EMP-324,Need password reset,Password Reset,Medium,Open,Pending
+TEL-1021,EMP-941,Office internet connection is down,Network,High,Resolved,Pending
+TEL-1022,EMP-374,Unable to access company email,Access Request,Medium,In Progress,Pending
+TEL-1023,EMP-997,Need password reset,Password Reset,Medium,In Progress,Pending
+TEL-1024,EMP-505,Permission denied for shared folder,Access Request,Medium,In Progress,Pending
+TEL-1025,EMP-242,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1026,EMP-538,Account password has expired,Password Reset,Medium,Resolved,Pending
+TEL-1027,EMP-241,Frequent network disconnections,Network,High,Open,Pending
+TEL-1028,EMP-981,Unable to connect to company VPN,VPN,High,In Progress,Pending
+TEL-1029,EMP-911,Frequent network disconnections,Network,High,Open,Pending
+TEL-1030,EMP-490,Permission denied for shared folder,Access Request,Medium,Resolved,Pending
+TEL-1031,EMP-981,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1032,EMP-868,Need password reset,Password Reset,Medium,Resolved,Pending
+TEL-1033,EMP-400,Cannot access internal network through VPN,VPN,High,In Progress,Pending
+TEL-1034,EMP-103,Account is locked,Access Request,Medium,In Progress,Pending
+TEL-1035,EMP-208,Need password reset,Password Reset,Medium,In Progress,Pending
+TEL-1036,EMP-482,Network is very slow,Network,High,Open,Pending
+TEL-1037,EMP-431,Account password has expired,Password Reset,Medium,Open,Pending
+TEL-1038,EMP-471,VPN authentication failed,VPN,High,In Progress,Pending
+TEL-1039,EMP-346,Unable to connect to company VPN,VPN,High,Open,Pending
+TEL-1040,EMP-935,Unable to access company email,Access Request,Medium,In Progress,Pending
+TEL-1041,EMP-775,Frequent network disconnections,Network,High,In Progress,Pending
+TEL-1042,EMP-640,Need IDE installation for development,Software Installation,Medium,In Progress,Pending
+TEL-1043,EMP-873,Unable to log in due to incorrect password,Password Reset,Medium,Resolved,Pending
+TEL-1044,EMP-787,Account is locked,Access Request,Medium,Escalated,Pending
+TEL-1045,EMP-562,Forgot company account password,Password Reset,Medium,In Progress,Pending
+TEL-1046,EMP-165,Cannot connect to internal server,Network,High,Open,Pending
+TEL-1047,EMP-667,Unable to log in due to incorrect password,Password Reset,Medium,In Progress,Pending
+TEL-1048,EMP-172,Unable to connect to company VPN,VPN,High,In Progress,Pending
+TEL-1049,EMP-132,VPN authentication failed,VPN,High,Open,Pending
+TEL-1050,EMP-343,Need password reset,Password Reset,Medium,Escalated,Pending
+TEL-1051,EMP-652,Network is very slow,Network,High,Escalated,Pending
+TEL-1052,EMP-903,Frequent network disconnections,Network,High,Escalated,Pending
+TEL-1053,EMP-196,Office internet connection is down,Network,High,Escalated,Pending
+TEL-1054,EMP-533,Need IDE installation for development,Software Installation,Medium,Escalated,Pending
+TEL-1055,EMP-789,Unable to connect to company VPN,VPN,High,Open,Pending
+TEL-1056,EMP-845,Account is locked,Access Request,Medium,Open,Pending
+TEL-1057,EMP-296,Network is very slow,Network,High,Escalated,Pending
+TEL-1058,EMP-532,Network is very slow,Network,High,Resolved,Pending
+TEL-1059,EMP-355,Unable to access company email,Access Request,Medium,Escalated,Pending
+TEL-1060,EMP-200,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1061,EMP-871,VPN disconnects frequently,VPN,High,In Progress,Pending
+TEL-1062,EMP-597,Permission denied for shared folder,Access Request,Medium,In Progress,Pending
+TEL-1063,EMP-160,Need access to internal application,Access Request,Medium,Escalated,Pending
+TEL-1064,EMP-499,VPN authentication failed,VPN,High,Escalated,Pending
+TEL-1065,EMP-533,Need IDE installation for development,Software Installation,Medium,In Progress,Pending
+TEL-1066,EMP-403,Network is very slow,Network,High,Open,Pending
+TEL-1067,EMP-853,Forgot company account password,Password Reset,Medium,Resolved,Pending
+TEL-1068,EMP-151,Cannot access internal network through VPN,VPN,High,In Progress,Pending
+TEL-1069,EMP-620,Unable to connect to company VPN,VPN,High,In Progress,Pending
+TEL-1070,EMP-709,Unable to connect to company VPN,VPN,High,In Progress,Pending
+TEL-1071,EMP-222,Need access to internal application,Access Request,Medium,Open,Pending
+TEL-1072,EMP-183,Account password has expired,Password Reset,Medium,Resolved,Pending
+TEL-1073,EMP-309,Software installation permission denied,Software Installation,Medium,In Progress,Pending
+TEL-1074,EMP-505,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1075,EMP-423,Unable to access company email,Access Request,Medium,Open,Pending
+TEL-1076,EMP-736,Unable to access company email,Access Request,Medium,Open,Pending
+TEL-1077,EMP-318,Need password reset,Password Reset,Medium,In Progress,Pending
+TEL-1078,EMP-170,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1079,EMP-261,Need IDE installation for development,Software Installation,Medium,Resolved,Pending
+TEL-1080,EMP-926,Forgot company account password,Password Reset,Medium,Resolved,Pending
+TEL-1081,EMP-999,VPN disconnects frequently,VPN,High,Resolved,Pending
+TEL-1082,EMP-209,VPN disconnects frequently,VPN,High,Resolved,Pending
+TEL-1083,EMP-719,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1084,EMP-803,Cannot connect to internal server,Network,High,Escalated,Pending
+TEL-1085,EMP-966,Need installation of Python software,Software Installation,Medium,Open,Pending
+TEL-1086,EMP-949,Account is locked,Access Request,Medium,Open,Pending
+TEL-1087,EMP-441,VPN disconnects frequently,VPN,High,Resolved,Pending
+TEL-1088,EMP-859,Frequent network disconnections,Network,High,Escalated,Pending
+TEL-1089,EMP-109,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1090,EMP-658,Office internet connection is down,Network,High,Resolved,Pending
+TEL-1091,EMP-665,Unable to log in due to incorrect password,Password Reset,Medium,Escalated,Pending
+TEL-1092,EMP-142,Cannot connect to internal server,Network,High,Resolved,Pending
+TEL-1093,EMP-466,VPN disconnects frequently,VPN,High,In Progress,Pending
+TEL-1094,EMP-462,Cannot access internal network through VPN,VPN,High,In Progress,Pending
+TEL-1095,EMP-985,Network is very slow,Network,High,In Progress,Pending
+TEL-1096,EMP-125,Need access to internal application,Access Request,Medium,Resolved,Pending
+TEL-1097,EMP-921,Need access to internal application,Access Request,Medium,Resolved,Pending
+TEL-1098,EMP-906,Office internet connection is down,Network,High,Escalated,Pending
+TEL-1099,EMP-979,Cannot access internal network through VPN,VPN,High,In Progress,Pending
+TEL-1100,EMP-936,Frequent network disconnections,Network,High,Resolved,Pending
+TEL-1101,EMP-940,Unable to install approved application,Software Installation,Medium,In Progress,Pending
+TEL-1102,EMP-775,VPN disconnects frequently,VPN,High,Escalated,Pending
+TEL-1103,EMP-385,Need installation of Python software,Software Installation,Medium,Resolved,Pending
+TEL-1104,EMP-756,Need IDE installation for development,Software Installation,Medium,Resolved,Pending
+TEL-1105,EMP-218,VPN authentication failed,VPN,High,In Progress,Pending
+TEL-1106,EMP-371,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1107,EMP-544,Need password reset,Password Reset,Medium,Resolved,Pending
+TEL-1108,EMP-720,Unable to access company email,Access Request,Medium,Escalated,Pending
+TEL-1109,EMP-294,Need password reset,Password Reset,Medium,Open,Pending
+TEL-1110,EMP-101,Need access to internal application,Access Request,Medium,Resolved,Pending
+TEL-1111,EMP-171,Account is locked,Access Request,Medium,Resolved,Pending
+TEL-1112,EMP-837,VPN authentication failed,VPN,High,Resolved,Pending
+TEL-1113,EMP-434,Permission denied for shared folder,Access Request,Medium,Resolved,Pending
+TEL-1114,EMP-230,Unable to log in due to incorrect password,Password Reset,Medium,Escalated,Pending
+TEL-1115,EMP-793,Need access to internal application,Access Request,Medium,Resolved,Pending
+TEL-1116,EMP-661,Unable to access company email,Access Request,Medium,Resolved,Pending
+TEL-1117,EMP-315,Need IDE installation for development,Software Installation,Medium,Resolved,Pending
+TEL-1118,EMP-552,Permission denied for shared folder,Access Request,Medium,In Progress,Pending
+TEL-1119,EMP-584,Unable to log in due to incorrect password,Password Reset,Medium,Open,Pending
+TEL-1120,EMP-627,Software installation permission denied,Software Installation,Medium,Open,Pending
+TEL-1121,EMP-788,Cannot connect to internal server,Network,High,In Progress,Pending
+TEL-1122,EMP-250,Office internet connection is down,Network,High,Open,Pending
+TEL-1123,EMP-586,Office internet connection is down,Network,High,Escalated,Pending
+TEL-1124,EMP-744,Need access to internal application,Access Request,Medium,Escalated,Pending
+TEL-1125,EMP-509,Need access to internal application,Access Request,Medium,In Progress,Pending
+TEL-1126,EMP-868,Unable to connect to company VPN,VPN,High,Escalated,Pending
+TEL-1127,EMP-280,Frequent network disconnections,Network,High,Open,Pending
+TEL-1128,EMP-355,Forgot company account password,Password Reset,Medium,Escalated,Pending
+TEL-1129,EMP-920,Frequent network disconnections,Network,High,Resolved,Pending
+TEL-1130,EMP-727,Permission denied for shared folder,Access Request,Medium,Escalated,Pending
+TEL-1131,EMP-861,Frequent network disconnections,Network,High,Escalated,Pending
+TEL-1132,EMP-869,Unable to install approved application,Software Installation,Medium,Resolved,Pending
+TEL-1133,EMP-596,Unable to log in due to incorrect password,Password Reset,Medium,Resolved,Pending
+TEL-1134,EMP-179,Account is locked,Access Request,Medium,In Progress,Pending
+TEL-1135,EMP-443,Software installation permission denied,Software Installation,Medium,Open,Pending
+TEL-1136,EMP-254,Network is very slow,Network,High,Escalated,Pending
+TEL-1137,EMP-823,Network is very slow,Network,High,Open,Pending
+TEL-1138,EMP-517,Account is locked,Access Request,Medium,Escalated,Pending
+TEL-1139,EMP-163,Need access to internal application,Access Request,Medium,Escalated,Pending
+TEL-1140,EMP-888,Unable to access company email,Access Request,Medium,Escalated,Pending
+TEL-1141,EMP-106,Account is locked,Access Request,Medium,Resolved,Pending
+TEL-1142,EMP-973,Permission denied for shared folder,Access Request,Medium,In Progress,Pending
+TEL-1143,EMP-324,Account is locked,Access Request,Medium,Escalated,Pending
+TEL-1144,EMP-129,Permission denied for shared folder,Access Request,Medium,Resolved,Pending
+TEL-1145,EMP-841,Need access to internal application,Access Request,Medium,Escalated,Pending
+TEL-1146,EMP-737,Office internet connection is down,Network,High,Escalated,Pending
+TEL-1147,EMP-677,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1148,EMP-238,Permission denied for shared folder,Access Request,Medium,In Progress,Pending
+TEL-1149,EMP-366,Cannot access internal network through VPN,VPN,High,Resolved,Pending
+TEL-1150,EMP-565,Cannot connect to internal server,Network,High,Resolved,Pending
+TEL-1151,EMP-384,Permission denied for shared folder,Access Request,Medium,Resolved,Pending
+TEL-1152,EMP-581,Unable to connect to company VPN,VPN,High,Open,Pending
+TEL-1153,EMP-329,Need installation of Python software,Software Installation,Medium,Open,Pending
+TEL-1154,EMP-353,VPN disconnects frequently,VPN,High,Open,Pending
+TEL-1155,EMP-256,Unable to log in due to incorrect password,Password Reset,Medium,In Progress,Pending
+TEL-1156,EMP-785,Unable to access company email,Access Request,Medium,In Progress,Pending
+TEL-1157,EMP-816,Account is locked,Access Request,Medium,Resolved,Pending
+TEL-1158,EMP-720,Office internet connection is down,Network,High,In Progress,Pending
+TEL-1159,EMP-210,Need installation of Python software,Software Installation,Medium,Resolved,Pending
+TEL-1160,EMP-793,Account password has expired,Password Reset,Medium,Escalated,Pending
+TEL-1161,EMP-177,Network is very slow,Network,High,Open,Pending
+TEL-1162,EMP-970,Need installation of Python software,Software Installation,Medium,Open,Pending
+TEL-1163,EMP-645,Need IDE installation for development,Software Installation,Medium,Resolved,Pending
+TEL-1164,EMP-618,VPN authentication failed,VPN,High,Open,Pending
+TEL-1165,EMP-942,Permission denied for shared folder,Access Request,Medium,Open,Pending
+TEL-1166,EMP-470,Permission denied for shared folder,Access Request,Medium,In Progress,Pending
+TEL-1167,EMP-280,Account is locked,Access Request,Medium,Escalated,Pending
+TEL-1168,EMP-546,Account is locked,Access Request,Medium,Resolved,Pending
+TEL-1169,EMP-950,Office internet connection is down,Network,High,Resolved,Pending
+TEL-1170,EMP-349,Permission denied for shared folder,Access Request,Medium,Escalated,Pending
+TEL-1171,EMP-129,Need IDE installation for development,Software Installation,Medium,Resolved,Pending
+TEL-1172,EMP-599,Network is very slow,Network,High,Resolved,Pending
+TEL-1173,EMP-448,Software installation permission denied,Software Installation,Medium,Resolved,Pending
+TEL-1174,EMP-110,Unable to log in due to incorrect password,Password Reset,Medium,Open,Pending
+TEL-1175,EMP-837,Frequent network disconnections,Network,High,Escalated,Pending
+TEL-1176,EMP-876,Unable to log in due to incorrect password,Password Reset,Medium,Escalated,Pending
+TEL-1177,EMP-558,Unable to access company email,Access Request,Medium,Open,Pending
+TEL-1178,EMP-326,Need IDE installation for development,Software Installation,Medium,In Progress,Pending
+TEL-1179,EMP-779,Software installation permission denied,Software Installation,Medium,Escalated,Pending
+TEL-1180,EMP-643,Need password reset,Password Reset,Medium,Escalated,Pending
+TEL-1181,EMP-438,Need password reset,Password Reset,Medium,Escalated,Pending
+TEL-1182,EMP-413,Software installation permission denied,Software Installation,Medium,In Progress,Pending
+TEL-1183,EMP-838,VPN disconnects frequently,VPN,High,Resolved,Pending
+TEL-1184,EMP-860,VPN disconnects frequently,VPN,High,In Progress,Pending
+TEL-1185,EMP-856,Frequent network disconnections,Network,High,Resolved,Pending
+TEL-1186,EMP-878,Need password reset,Password Reset,Medium,Open,Pending
+TEL-1187,EMP-403,Network is very slow,Network,High,Resolved,Pending
+TEL-1188,EMP-409,Office internet connection is down,Network,High,In Progress,Pending
+TEL-1189,EMP-146,Need installation of Python software,Software Installation,Medium,Resolved,Pending
+TEL-1190,EMP-753,Frequent network disconnections,Network,High,Open,Pending
+TEL-1191,EMP-687,VPN authentication failed,VPN,High,Escalated,Pending
+TEL-1192,EMP-551,Account is locked,Access Request,Medium,In Progress,Pending
+TEL-1193,EMP-358,Cannot access internal network through VPN,VPN,High,Open,Pending
+TEL-1194,EMP-510,Cannot access internal network through VPN,VPN,High,Open,Pending
+TEL-1195,EMP-744,Forgot company account password,Password Reset,Medium,In Progress,Pending
+TEL-1196,EMP-930,Cannot connect to internal server,Network,High,Open,Pending
+TEL-1197,EMP-221,Frequent network disconnections,Network,High,In Progress,Pending
+TEL-1198,EMP-489,Account password has expired,Password Reset,Medium,Escalated,Pending
+TEL-1199,EMP-980,Need IDE installation for development,Software Installation,Medium,Resolved,Pending
+TEL-1200,EMP-735,Forgot company account password,Password Reset,Medium,Open,Pending
+TEL-1201,EMP-999,Unable to connect to company VPN,VPN,High,Open,Pending
+TEL-1202,EMP-999,Unable to connect to company VPN,VPN,High,Open,Pending
+TEL-1203,EMP-999,Unable to connect to company VPN,VPN,High,Open,Pending

@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "question": "I cannot connect to the company VPN.",
+    "expected_category": "VPN",
+    "expected_priority": "Medium"
+  },
+  {
+    "id": 2,
+    "question": "My password is not working and my account is locked.",
+    "expected_category": "Password",
+    "expected_priority": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Please install Microsoft Teams on my laptop.",
+    "expected_category": "Software Installation",
+    "expected_priority": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "I need access permission to the CRM system.",
+    "expected_category": "Access Request",
+    "expected_priority": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "The entire company network is down. We have a critical production outage.",
+    "expected_category": "Network",
+    "expected_priority": "Critical"
+  },
+  {
+    "id": 6,
+    "question": "My office WiFi is not working.",
+    "expected_category": "Network",
+    "expected_priority": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "The production network server is down.",
+    "expected_category": "Network",
+    "expected_priority": "High"
+  },
+  {
+    "id": 8,
+    "question": "I have a general inquiry about software information.",
+    "expected_category": "General IT",
+    "expected_priority": "Low"
+  },
+  {
+    "id": 9,
+    "question": "Multiple users are affected by a network server outage.",
+    "expected_category": "Network",
+    "expected_priority": "High"
+  },
+  {
+    "id": 10,
+    "question": "I need help installing and configuring the application.",
+    "expected_category": "Software Installation",
+    "expected_priority": "Medium"
+  }
+]
